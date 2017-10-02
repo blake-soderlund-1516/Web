@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Max Is My Hero</title>
+</head>
+		
+	<header>
+	<div class="title">
+		
+	<h1 style="font-size:300%">Max is the best Hearthstone/dota2 player ever</h1>
+		<p style="font-size:150%">Max is really good at being the best. Click either picture to learn how you can master each game.</p>
+	
+	</div>
+		
+		
+		
+		<center><Table>
+			<tr>
+				<td>
+			<a href="file:///H:/second.html">
+		<img src="http://blogs-images.forbes.com/insertcoin/files/2014/12/hearthstone1.jpg" width="900" height="500">
+			</a>	
+				</td>
+				<td>
+			<a href="file:///H:/third.html">
+		<img src="http://images.bidnessetc.com/img/dota-2-reborn-open-beta-launches-next-week.jpg" width="900" height="500">
+			</a>
+				</td>
+			</tr>
+		</table></center>
+	
+	
+	<style>
+	.title{text-align: center}
+	.title{background-color:#ff6600}
+	.title{color: #252525}
+	</style>
+	
+	</header>
+		
+	<body bgcolor="#800800">
+		
+		<body background="">
+		
+		<div style="color:"000080">
+	
+		</div>
+	
+
+	<center><table bgcolor="#ff6600">
+	<tr>
+	
+	<td><img src="https://bnetcmsus-a.akamaihd.net/cms/gallery/STVRUID29YAQ1424821862276.gif"></td>
+		<td><iframe width="560" height="315" src="https://www.youtube.com/embed/TJs5_s0Fsbs" frameborder="0" allowfullscreen></iframe></td>
+	
+	<td><center><img src="https://bnetcmsus-a.akamaihd.net/cms/gallery/STVRUID29YAQ1424821862276.gif"></td>
+	
+		<td><iframe width="560" height="315" src="https://www.youtube.com/embed/fMhsHbsdh94" frameborder="0" allowfullscreen></iframe></td>
+	
+	<td><img src="https://bnetcmsus-a.akamaihd.net/cms/gallery/STVRUID29YAQ1424821862276.gif"></td>
+	
+	</tr>
+	<tr>
+	
+	<td style=font-size:150%><p><center>I would sacrifice myself for the almighty Max Perez</center></p></td>
+	<td></td>
+	
+	<td style=font-size:150%><p><center>Max is eternal<center></p></td>
+	<td></td>
+	
+	<td style=font-size:150%><p><center>Without our lord and savior Max, all is lost</center></p></td>
+	
+	</tr>
+</table></center>
+
+
+
+		<form action="http://maxperez.com/" target="_blank">
+			<input type="submit" value="More Max Awaits">
+</form>
